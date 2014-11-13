@@ -1,0 +1,295 @@
+<TD VALIGN="bottom"> <P ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc590790_9">Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">25</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item&nbsp;7A.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc590790_10">Quantitative and Qualitative Disclosures About Market Risk</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">42</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item&nbsp;8.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc590790_11">Financial Statements and Supplementary Data</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">44</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item&nbsp;9.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc590790_12">Changes in and Disagreements With Accountants on Accounting and Financial Disclosure</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">81</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item&nbsp;9A.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc590790_13">Controls and Procedures</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">81</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item&nbsp;9B.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc590790_14">Other Information</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">82</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8" COLSPAN="7"></TD></TR>
+<TR>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A HREF="#toc590790_1c">Part III</A></B></FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A HREF="#toc590790_1c"></A>&nbsp;&nbsp;</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item&nbsp;10.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc590790_15">Directors, Executive Officers and Corporate Governance</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">83</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item&nbsp;11.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc590790_16">Executive Compensation</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">83</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item&nbsp;12.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc590790_17">Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">83</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item&nbsp;13.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc590790_18">Certain Relationships and Related Transactions and Director Independence</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">83</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item&nbsp;14.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc590790_19">Principal Accounting Fees and Services</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">83</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8" COLSPAN="7"></TD></TR>
+<TR>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A HREF="#toc590790_1d">Part IV</A></B></FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A HREF="#toc590790_1d"></A>&nbsp;&nbsp;</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item&nbsp;15.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc590790_20">Exhibits, Financial Statement Schedules</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">84</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>The Business section and other parts of this Annual Report on Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> (&#147;Form 10-K&#148;) contain <FONT STYLE="white-space:nowrap">forward-looking</FONT> statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and
+uncertainties. Many of the forward-looking statements are located in &#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations.&#148; Forward-looking statements provide current expectations of future events
+based on certain assumptions and include any statement that does not directly relate to any historical or current fact. Forward-looking statements can also be identified by words such as &#147;future,&#148; &#147;anticipates,&#148;
+&#147;believes,&#148; &#147;estimates,&#148; &#147;expects,&#148; &#147;intends,&#148; &#147;plans,&#148; &#147;predicts,&#148; &#147;will,&#148; &#147;would,&#148; &#147;could,&#148; &#147;can,&#148; &#147;may,&#148; and similar terms.
+Forward-looking statements are not guarantees of future performance and the Company&#146;s actual results may differ significantly from the results discussed in the <FONT STYLE="white-space:nowrap">forward-looking</FONT> statements. Factors that
+might cause such differences include, but are not limited to, those discussed in Part I, Item&nbsp;1A of this Form <FONT STYLE="white-space:nowrap">10-K</FONT> under the heading &#147;Risk Factors,&#148; which are incorporated herein by reference.
+Each of the terms the &#147;Company&#148; and &#147;Apple&#148; as used herein refers collectively to Apple Inc. and its wholly-owned subsidiaries, unless otherwise stated. The Company assumes no obligation to revise or update any forward-looking
+statements for any reason, except as required by law. </I></FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc590790_1a"></A>PART I </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc590790_1"></A>Item&nbsp;1.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Business </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Company Background
+</B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px;padding-bottom:0px; " ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Company designs, manufactures, and markets mobile communication and media devices, personal
+computers, and portable digital music players, and sells a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications. The Company&#146;s products and services include iPhone<FONT
+STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>, iPad<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP
+STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>, Mac<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>, iPod<FONT
+STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>, Apple TV<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP
+STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>, a portfolio of consumer and professional software applications, the iOS and OS X<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP
+STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> operating systems, iCloud<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>,
+and a variety of accessory, service and support offerings. The Company also sells and delivers digital content and applications through the iTunes Store<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP
+STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>, App Store&#153;, iBooks Store&#153;, and Mac App Store. The Company sells its products worldwide through its retail stores, online stores, and direct sales force, as
+well as through third-party cellular network carriers, wholesalers, retailers, and value-added resellers. In addition, the Company sells a variety of third-party iPhone, iPad, Mac and iPod compatible products, including application software, and
+various accessories, through its online and retail stores. The Company sells to consumers; small and mid-sized businesses (&#147;SMB&#148;); and education, enterprise and government customers. The Company&#146;s fiscal year is the 52 or 53-week
+period that ends on the last Saturday of September. Unless otherwise stated, all information presented in this Form 10-K is based on the Company&#146;s fiscal calendar. The Company is a California corporation established in 1977. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Business Strategy </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px;padding-bottom:0px; " ALIGN="justify"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Company is committed to bringing the best user experience to its customers through its innovative hardware, software and services. The Company&#146;s business strategy leverages its unique ability to
+design and develop its own operating systems, hardware, application software, and services to provide its customers new products and solutions with superior ease-of-use, seamless integration, and innovative design. The Company believes continual
+investment in research and development, marketing and advertising is critical to the development and sale of innovative products and technologies. As part of its strategy, the Company continues to expand its platform for the discovery and delivery
+of third-party digital content and applications through the iTunes Store. As part of the iTunes Store, the Company&#146;s App Store and iBooks Store allow customers to discover and download applications and books through either a Mac or
+Windows-based computer or through &#147;iOS devices,&#148; namely iPhone, iPad and iPod touch<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>. The
+Company&#146;s Mac App Store allows customers to easily discover, download and install Mac applications. The Company also supports a community for the development of third-party software and hardware products and digital content that complement the
+Company&#146;s offerings. The Company believes a high-quality buying experience with knowledgeable salespersons who can convey the value of the Company&#146;s products and services greatly enhances its ability to attract and retain customers.
+Therefore, the Company&#146;s strategy also includes enhancing and expanding its own retail and online stores and its third-party distribution network to effectively reach more customers and provide them with a high-quality sales and post-sales
+support experience. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">1 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Business Organization </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="justify"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Company manages its business primarily on a geographic basis. Accordingly, the Company determined its reportable operating segments, which are generally based on the nature and location of its
+customers, to be the Americas, Europe, Japan, Greater China, Rest of Asia Pacific and Retail. The Americas segment includes both North and South America. The Europe segment includes European countries, as well as India, the Middle East and Africa.
+The Greater China segment includes China, Hong Kong and Taiwan. The Rest of Asia Pacific segment includes Australia and Asian countries, other than those countries included in the Company&#146;s other operating segments. The Retail segment operates
+Apple retail stores in 13 countries, including the U.S. Each operating segment provides similar hardware and software products and similar services. The results of the Company&#146;s geographic segments do not include results of the Retail segment.
+Further information regarding the Company&#146;s operating segments may be found in Part II, Item&nbsp;7 of this Form <FONT STYLE="white-space:nowrap">10-K</FONT> under the subheading &#147;Segment Operating Performance,&#148; and in Part II,
+Item&nbsp;8 of this Form 10-K in the Notes to Consolidated Financial Statements in Note 11, &#147;Segment Information and Geographic Data.&#148; </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>Products </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>iPhone </I></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px;padding-bottom:0px; " ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">iPhone is the Company&#146;s line of smartphones that combines a phone, music player, and internet device in one
+product, and is based on Apple&#146;s iOS Multi-Touch&#153; operating system. iPhone has an integrated photo and video camera and photo library app, and on qualifying devices, also includes Siri<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP
+STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>, a voice activated intelligent assistant. iPhone works with the iTunes Store, the App Store and iBooks Store for purchasing, organizing and playing music, movies, TV
+shows, podcasts, books, and apps. In addition to apps delivered with iOS, beginning in September 2013, free downloads of
+iPhoto<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>, iMovie<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP
+STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> and iWork<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> apps for iOS
+became available with all new iPhones. iPhone is compatible with both Mac and Windows personal computers and Apple&#146;s iCloud services which provide synchronization of mail, contacts, calendars, apps, music, photos, documents, and more across
+users&#146; devices. The latest versions, introduced in September 2013, are iPhone 5c and iPhone 5s. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>iPad </I></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px;padding-bottom:0px; " ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">iPad and iPad mini&#153; are the Company&#146;s line of multi-purpose tablets based on Apple&#146;s iOS Multi-Touch
+operating system. iPad has an integrated photo and video camera and photo library app, and on qualifying devices, also includes Siri. iPad works with the iTunes Store, the iBooks Store, and the App Store for purchasing and playing music, movies, TV
+shows, podcasts, books, and apps. In addition to apps delivered with iOS for qualifying devices, beginning in September 2013, iPhoto, iMovie and iWork apps for iOS became available as free downloads with all new iPads. iPad is compatible with both
+Mac and Windows personal computers and Apple&#146;s iCloud services. In October 2013, the Company announced iPad Air&#153;, its fifth generation iPad, and iPad mini with Retina<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP
+STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> display. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Mac </I></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px;padding-bottom:0px; " ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">Mac is the Company&#146;s line of desktop and portable personal computers. Macs feature Intel microprocessors, the OS
+X operating system and include Mail, Safari web browser, Messages, Calendars, Reminders, Contacts and the iLife<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>
+suite of software apps. The Company&#146;s desktop computers include iMac<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>, Mac Pro<FONT
+STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> and Mac mini. The Company&#146;s portable computers include MacBook Pro<FONT
+STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> and MacBook Air<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP
+STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>. Beginning in October 2013, the Company&#146;s iWork productivity suite of apps for OS X became available as free downloads with all new Macs. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>iPod </I></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px;padding-bottom:0px; " ALIGN="justify"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Company&#146;s iPod line of portable digital music and media players includes iPod touch, iPod nano<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP
+STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>, iPod shuffle<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> and iPod
+classic<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>. All iPods work with iTunes to purchase and synchronize content. iPod touch, based on the
+Company&#146;s iOS Multi-Touch operating system, is a flash-memory-based iPod with an integrated photo </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+and video camera and photo library app, and also includes Siri. iPod touch works with the iTunes Store, the App Store, and the iBooks Store for purchasing and playing music, movies, TV shows,
+podcasts, books, and apps. In addition to apps delivered with iOS, beginning in September 2013, iPhoto, iMovie and iWork apps for iOS became available as free downloads for all new iPod touches. iPod touch is compatible with both Mac and Windows
+personal computers and Apple&#146;s iCloud services. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>iTunes and the iTunes Store </I></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px;padding-bottom:0px; " ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">Apple&#146;s iTunes app, available for both Mac and Windows personal computers, keeps users&#146; music, movies, and
+TV shows organized in one place. iTunes is integrated with the iTunes Store, the App Store and the iBooks Store. The iTunes Store allows users to purchase and download music and TV shows and to rent or purchase movies. The iTunes Store also includes
+hundreds of thousands of free Podcasts on a multitude of subjects. The App Store allows customers to discover and download apps and purchase in-app content. The iBooks Store features e-books from major and independent publishers. iTunes U<FONT
+STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> allows users to download free lectures, videos, and more from top universities, museums, and other institutions.
+iTunes also features Genius mixes to find songs that go together and organize them into genre-based mixes and Home Sharing to allow users to stream content from one computer to another computer as well as to iOS devices and newer versions of the
+Company&#146;s Apple TV. In September 2013, Apple introduced iTunes Radio&#153;, a free Internet streaming service that allows users of iOS devices, Mac and Windows personal computers and Apple TV to personalize radio stations featuring music from
+the iTunes Store. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Mac App Store </I></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="justify"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Mac App Store allows customers to discover, download and install Mac apps. The Mac App Store offers applications in education, games, graphics and design, lifestyle, productivity, utilities and other
+categories. The Company&#146;s OS X operating system software and its iLife, iWork and other application software titles are also available on the Mac App Store. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="justify"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><I>iCloud </I></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">iCloud is the Company&#146;s cloud service, which stores music,
+photos, applications, contacts, calendars, documents and more, keeping them up-to-date and available to multiple iOS devices and Mac and Windows personal computers. iCloud&#146;s features include iTunes in the Cloud; Photo Stream; Documents in the
+Cloud; Contacts; Calendar; Mail;&nbsp;automatic downloads and purchase history for content, applications and books; and iCloud Backup for iOS devices.&nbsp;Users can sign up for free access to iCloud using a device running qualifying versions of iOS
+or OS X. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Operating System Software </I></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">iOS </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">iOS is the Company&#146;s Multi-Touch operating system that serves as the
+foundation for iOS devices. iOS 7 is the current version and was released in September 2013. Apps delivered with iOS for qualifying devices include Safari web browser, FaceTime video calling, Maps with turn-by-turn directions, Mail, Contacts,
+Calendar, Clock, Weather, Calculator, Notes, Reminders, Stocks, Compass, and Messages. Devices running iOS are compatible with both Mac and Windows personal computers and Apple&#146;s iCloud services. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">OS X </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">OS X, the Company&#146;s
+Mac operating system, is built on an open-source UNIX-based foundation and provides an intuitive and integrated computer experience. OS X Mavericks, released in October 2013, is the tenth major release of OS X. Support for iCloud is built into OS X
+so users can access content and information from their other Macs, their iOS devices and other supported devices and access downloaded content and apps from the </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px;padding-bottom:0px; " ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+iTunes Store. In addition to Mail, Safari web browser, Messages, Calendars, Reminders, Contacts and the iLife<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP
+STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> suite of software apps, Mavericks also includes a new Maps app and a new iBooks app that both work with their iOS counterparts. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Application Software </I></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">iLife </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px;padding-bottom:0px; " ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">iLife for Mac is the Company&#146;s consumer-oriented digital lifestyle software application suite included with all
+Mac computers. iLife features iPhoto, a digital photo application for storing, viewing, editing and sharing photos; iMovie, a digital video editing application; and GarageBand<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP
+STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>, a music creation application that allows customers to play, record and create music. The Company also has Multi-Touch versions of these iLife applications designed
+specifically for use on iPhone and iPad, and beginning in September 2013, both iPhoto and iMovie for iOS became available as free downloads with all new iOS devices. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">iWork </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px;padding-bottom:0px; " ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">iWork for Mac is the Company&#146;s integrated
+productivity suite designed to help users create, present, and publish documents, presentations, and spreadsheets. iWork includes Pages<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP
+STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> for word processing and page layout,
+Keynote<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> for presentations, and Numbers<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP
+STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> for spreadsheets. Beginning in October 2013, the iWork suite of apps for OS X will be available as free downloads with all new Macs. The Company also has iOS
+Multi-Touch versions of each iWork application designed specifically for use on iOS devices and, beginning in September 2013, they all became available as free downloads with all new iOS devices. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Other Application Software </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px;padding-bottom:0px; " ALIGN="justify"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Company also sells various other application software, including its professional line of applications, Final Cut
+Pro<I><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></I>, Logic<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> Pro X, and
+its FileMaker<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> Pro database software. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="justify"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><I>Displays&nbsp;&amp; Peripheral Products </I></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Company manufactures the Apple
+LED Cinema Display&#153; and Thunderbolt Display. The Company also sells a variety of Apple-branded and third-party Mac-compatible and iOS-compatible peripheral products, including printers, storage devices, computer memory, digital video and still
+cameras, pointing devices, and various other computing products and supplies. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Apple TV </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px;padding-bottom:0px; " ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">Apple TV connects to consumers&#146; high definition TVs and enables them to access iTunes content directly for
+streaming HD video, playing music and viewing photos. Content from Netflix, YouTube, Flickr, MLB, Hulu Plus, iTunes Radio and other media services is also available. Apple TV allows streaming iTunes content from Macs and Windows personal computers
+through Home Share and through AirPlay<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> from compatible Mac and iOS devices. Compatible Mac and iOS devices can
+also mirror their device screens as well as stream and play games on Apple TV. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>iOS and Mac Developer Programs </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px;padding-bottom:0px; " ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Company&#146;s iOS and Mac Developer Programs support app developers with the development, testing and
+distribution of iOS and Mac apps through the App Store and the Mac App Store. Development tools included with the Company&#146;s Developer Programs include Xcode<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP
+STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>, the Company&#146;s integrated development environment for creating apps for iOS devices, including iPhone and iPad, and Mac. Xcode includes project management tools;
+analysis tools to collect, display and compare app performance data; simulation tools to locally run, test, and debug apps; tools to simplify the design and development of user interfaces; and the latest software
+</FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+development kits for iOS and OS X. The Company&#146;s Developer Programs also provide access to multiple development resources including the Company&#146;s Developer Forums, extensive technical
+documentation, and sample code. The Company&#146;s Developer Programs also provide developers with access tools and information for submitting their apps to the App Store and the Mac App Store. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Product Support and Services </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px;padding-bottom:0px; " ALIGN="justify"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">AppleCare<I><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></I> offers a range of support options for the Company&#146;s customers. These include assistance that is built
+into software products, printed and electronic product manuals, online support including comprehensive product information as well as technical assistance, the AppleCare Protection Plan (&#147;APP&#148;) and the AppleCare+ Protection Plan
+(&#147;AC+&#148;). APP is a fee-based service that typically includes two to three years of phone support, hardware repairs and dedicated web-based support resources. AC+ is a fee-based service available in certain countries for iPhone and iPad. AC+
+offers additional coverage under some circumstances for instances of accidental damage in addition to the services offered by APP. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Markets
+and Distribution </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Company&#146;s customers are primarily in the consumer, SMB, education, enterprise and government
+markets. The Company sells its products and resells third-party products in most of its major markets directly to consumers and SMBs through its retail and online stores and its direct sales force. The Company also employs a variety of indirect
+distribution channels, such as third-party cellular network carriers, wholesalers, retailers, and value-added resellers. During 2013, the Company&#146;s net sales through its direct and indirect distribution channels accounted for&nbsp;30%
+and&nbsp;70%, respectively, of total net sales.</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Company believes that sales of its innovative and differentiated products
+are enhanced by knowledgeable salespersons who can convey the value of the hardware and software integration, and demonstrate the unique solutions that are available on its products. The Company further believes providing direct contact with its
+targeted customers is an effective way to demonstrate the advantages of its products over those of its competitors and providing a high-quality sales and after-sales support experience is critical to attracting new and retaining existing customers.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">To ensure a high-quality buying experience for its products in which service and education are emphasized, the Company
+continues to expand and improve its distribution capabilities by expanding the number of its own retail stores worldwide. The Company&#146;s retail stores are typically located at high-traffic locations in quality shopping malls and urban shopping
+districts. By operating its own stores and locating them in desirable high-traffic locations the Company is better positioned to ensure a high quality customer buying experience and attract new customers. The stores are designed to simplify and
+enhance the presentation and marketing of the Company&#146;s products and related solutions. The retail stores employ experienced and knowledgeable personnel who provide product advice, service and training and offer a wide selection of third-party
+hardware, software, and other accessories and peripherals that complement the Company&#146;s products. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="justify"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Company has also
+invested in programs to enhance reseller sales by placing high quality Apple fixtures, merchandising materials and other resources within selected third-party reseller locations. Through the Apple Premium Reseller Program, certain third-party
+resellers focus on the Apple platform by providing a high level of product expertise, integration and support services. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px;padding-bottom:0px; " ALIGN="justify"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Company is committed to delivering solutions to help educators teach and students learn. The Company believes effective integration of technology into classroom instruction can result in higher levels
+of student achievement and has designed a range of products, services and programs to address the needs of education customers. The Company also supports mobile learning and real-time distribution of, and access to, education related materials
+through iTunes U<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>, a platform that allows students and teachers to share and distribute educational media
+online. The Company sells its products to the education market through its direct sales force, select third-party resellers and its online and retail stores. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">5 </FONT></P>
+

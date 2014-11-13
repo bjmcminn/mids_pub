@@ -1,0 +1,2 @@
+input/mdafolder1/mockmda1.txt
+input/mdafolder2/mockmda2.txt
